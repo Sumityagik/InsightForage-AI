@@ -239,6 +239,9 @@ The objective of this project is to explore how multiple NLP techniques can be i
 Rather than focusing on a single NLP task, InsightForge AI demonstrates how modular AI components can work together to generate richer insights from textual data.
 
 ---
+## 🚀 Future Development
+
+This notebook serves as the foundational prototype of **InsightForge AI**. The next phase of the project is to transform it into a real-world AI web application using **Flask**, featuring an interactive ChatGPT-inspired interface, document upload support (PDF/DOCX), REST APIs, and a modular backend architecture for seamless user interaction.
 
 # 👨‍💻 Author
 
